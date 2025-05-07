@@ -10,5 +10,7 @@ function multiplication(a , b) {
 function division(a, b) {
     console.log(`division ${a / b} `)
 }
-
-module.exports = { addition , subtraction , multiplication , division }
+function reminder(a,b){
+    console.log(`reminder ${a%b}`)
+}
+module.exports = { addition , subtraction , multiplication , division ,reminder}
