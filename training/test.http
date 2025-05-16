@@ -1,0 +1,34 @@
+GET http://localhost:4004/odata/v4/BookStoreAman/Books
+
+###
+
+GET http://localhost:4004/odata/v4/BookStoreAman/Books('1')
+
+###
+GET http://localhost:4004/odata/v4/BookStoreAman/Authors
+
+###
+GET http://localhost:4004/odata/v4/BookStoreAman/Authors('1')
+
+###
+GET http://localhost:4004/odata/v4/BookStoreAman/Reviews
+
+###
+GET http://localhost:4004/odata/v4/BookStoreAman/Reviews('1')
+
+###
+
+POST http://localhost:4004/odata/v4/BookStoreAman/Books
+Content-Type: application/json
+
+{
+    "title" : "New Book",
+    "ISBN" : "2928" ,
+    "amount_code" : "A4",
+    "review" : "Thriller",
+    "author_ID":"101",
+    "createdAt":"2025-05-12 09:14:57",
+    "createdBy":"User1",
+    "modifiedAt":"2025-05-12 09:14:57",
+    "modifiedBy":"User1"
+}

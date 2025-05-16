@@ -1,0 +1,5 @@
+ID,rating,comment,book_ID,createdAt,createdBy,modifiedAt,modifiedBy
+1,4,Comment 1,54,2025-05-12 09:14:57,User1,2025-05-12 09:14:57,User1
+2,2,Comment 2,30,2025-05-12 09:14:57,User2,2025-05-12 09:14:57,User2
+3,1,Comment 3,28,2025-05-12 09:14:57,User3,2025-05-12 09:14:57,User3
+4,2,Comment 4,49,2025-05-12 09:14:57,User4,2025-05-12 09:14:57,User4

@@ -1,0 +1,5 @@
+ID,title,ISBN,amount_code,review,author_ID,createdAt,createdBy,modifiedAt,modifiedBy
+1,Book One,4977,A1,Good book,101,2025-05-12 09:11:55,User1,2025-05-12 09:11:55,User1
+2,Book Two,4862,A2,Average book,102,2025-05-12 09:11:55,User2,2025-05-12 09:11:55,User2
+3,Book Three,2884,A3,Excellent book,103,2025-05-12 09:11:55,User3,2025-05-12 09:11:55,User3
+4,Book Four,4977,A4,Not bad,104,2025-05-12 09:11:55,User4,2025-05-12 09:11:55,User4
